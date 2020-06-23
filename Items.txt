@@ -1,3 +1,5 @@
 Welcome
 Hello
 Yello
+chicken
+kitchen
